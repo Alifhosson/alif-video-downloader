@@ -1,6 +1,6 @@
 <h3 align="center">
   
-    <p align="center"><img src="https://img.shields.io/badge/𝗪𝗟𝗖𝗠 𝗧𝗢 -𝗔𝗟𝗜𝗙 𝙈𝙀𝘿𝙄𝘼 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+    <p align="center"><img src="https://img.shields.io/badge/𝗪𝗟𝗖𝗠 𝗧𝗢-𝗔𝗟𝗜𝗙-𝙈𝙀𝘿𝙄𝘼-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
     
 </h3>
 
