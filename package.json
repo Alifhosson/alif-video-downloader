@@ -1,6 +1,6 @@
 {
   "name": "alif-video-downloader",
-  "version": "0.0.1",
+  "version": "2.2.0",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "data/index.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "media",
     "link",
     "tiktok",
+    "tiktook download",
     "tikvm",
     "video",
     "fbdownload",
